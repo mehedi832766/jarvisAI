@@ -1,6 +1,6 @@
 import speech_recognition as sr
 import pyttsx3
-import numpy as np
+import numpy
 import pywhatkit
 listener = sr.Recognizer()
 engine = pyttsx3.init()
